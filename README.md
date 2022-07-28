@@ -12,7 +12,7 @@ Some companies, like SellBy, provide products to Amazon Vine members in exchange
 ![bullet 2](https://github.com/laurlen2112/amazon_vine_analysis/blob/main/resources/bullet%202.png)
 
 * 34.12% of the Vine review set is comprised of five star reviews and 48.34% of the unpaid review set is comprised of five star reviews.  
-![bullet 3](https://github.com/laurlen2112/amazon_vine_analysis/blob/main/resources/bullet%202.png)
+![bullet 3](https://github.com/laurlen2112/amazon_vine_analysis/blob/main/resources/bullet%203.png)
 
 ## Summary
 Based on this analysis the Vine reviews do not seem to be more favorable than the unpaid reviews.  However, more queries should be conducted to confirm this results.  
