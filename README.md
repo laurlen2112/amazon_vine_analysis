@@ -3,7 +3,7 @@
 ## Overview:
 Some companies, like SellBy, provide products to Amazon Vine members in exchange for a review of the product.  The purpose of this analysis is to determine if Amazon Vine members favorably rate products based on this practice.  The "toys" Amazon review set was chosen for this analysis.  The ETL process was conducted in [Google Colaboratory using PySpark](https://github.com/laurlen2112/amazon_vine_analysis/blob/main/challenge/Amazon_Reviews_ETL.ipynb) to interact with the dataset and AWS to store it.  The cleaned data was transferred to PG Admin in the form of 4 tables.  The analysis on the Vine dataset was performed in [Jupyter Notebook](https://github.com/laurlen2112/amazon_vine_analysis/blob/main/challenge/Vine_Review_Analysis.ipynb) using Pandas.
 
-![etl diagram](https://github.com/laurlen2112/amazon_vine_analysis/blob/main/resources/etl%202.png)
+![etl diagram](<img scr = "https://github.com/laurlen2112/amazon_vine_analysis/blob/main/resources/etl%202.png" width = "600" height = "300">)
 
 
 ## Results:
